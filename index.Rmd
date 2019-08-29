@@ -1,6 +1,6 @@
 ---
 title: <br>**Gender Norms and Violent Behavior <br> in a Virtual World**
-author: .center[<br>**Eric Dunford** <br> _Georgetown University_].pull-left[<br>**Johanna Birnir** <br> _University of Maryland_] .pull-right[<br>**David Waguespack** <br> _University of Maryland_] <br> 
+author: .pull-left[<br>**Johanna Birnir** <br> _University of Maryland_] .pull-right[<br>**David Waguespack** <br> _University of Maryland_].center[<br>**Eric Dunford** <br> _Georgetown University_] <br> 
 # date: <br><br><br><br><br>_Spring 2019_
 
 output:
@@ -179,13 +179,6 @@ tibble("Time Series" = "2008 - 2016 (8 Years)",
 <br>
 .center[
 # Thanks!
-<br>
-.center[
-### [Eric Dunford](ericdunford.com)
-_McCourt School of Public Policy_<br>
-**_Georgetown University_**<br>
-eric.dunford@georgetown.edu
-]
 .pull-left[
 .center[
 ### [Johanna Birnir](https://gvpt.umd.edu/facultyprofile/birnir/j%C3%B3hanna)
@@ -204,6 +197,14 @@ _Smith School of Business_<br>
 dwaguesp@rhsmith.umd.edu
 ]
 ]
+<br>
+.center[
+### [Eric Dunford](ericdunford.com)
+_McCourt School of Public Policy_<br>
+**_Georgetown University_**<br>
+eric.dunford@georgetown.edu
+]
+
 ]
 
 
